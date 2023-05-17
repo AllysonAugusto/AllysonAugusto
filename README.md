@@ -1,10 +1,26 @@
-Bem-vindo(a) ao meu GitHub! Aqui você encontrará um amante entusiasta de Python, cibersegurança e redes de computadores.
+name: Generate Datas
 
-Meu interesse pela cibersegurança e redes de computadores se reflete em projetos que visam fortalecer a segurança e a privacidade digital. Exploro temas como camadas TCP/IP/ protocolos e conectividades entre os sistemas.
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
 
-Sinta-se à vontade para explorar meus repositórios, aprender com o código e contribuir com suas próprias ideias. Juntos, podemos continuar a expandir nossos conhecimentos em Python, cibersegurança e redes de computadores.
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: AllysonAugusto
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-<!---
-AllysonAugusto/AllysonAugusto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  

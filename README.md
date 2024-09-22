@@ -3,11 +3,14 @@
 ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h1 align="center">
-<center>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=33&pause=1000&width=435&lines=Hello!++%F0%9F%91%8B;My+name+is+Allyson+Novaes!" alt="Typing SVG" /></a>
-</center>
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00aeff&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Allyson+Novaes!;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+  </h2>
+
+</div><br>
+<hr>
 
 
 <br>

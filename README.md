@@ -63,7 +63,7 @@
 
 ### University Repository:
 
-[![Image](https://user-images.githubusercontent.com/103089400/188333845-0574e2fb-91c1-4ce3-be05-b788a20d0ee7.png)](https://github.com/AllysonAugusto/UFC)
+[![Image](https://user-images.githubusercontent.com/103089400/188333845-0574e2fb-91c1-4ce3-be05-b788a20d0ee7.png)](https://github.com/AllysonAugusto?tab=repositories)
 
 
 

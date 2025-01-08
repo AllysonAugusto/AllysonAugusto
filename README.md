@@ -143,10 +143,4 @@
 
 
 
-  ![Snake animation](https://github.com/AllysonAugusto/AllysonAugusto/blob/output/github-contribution-grid-snake-dark.svg)<br/>
- <div align="left">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllysonAugusto&show_icons=true&theme=radical"/>
- <a href="https://wakatime.com/@AllysonAugusto" target="_blank">
-	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AllysonAugusto&border_radius=5px&theme=radical&show_icons=true&disable_animations=true">
-</a>
-</div><br/>
+![snake gif](https://github.com/AllysonAugusto/AllysonAugusto/blob/output/github-contribution-grid-snake.svg)

@@ -50,6 +50,8 @@
  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" />
  <img align="center" alt="POSTGRES" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img align="center" alt="MSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img align="center" alt="HTML" src="[https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)" />
+  
  </div><br/>
 
 

@@ -47,7 +47,7 @@
  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
  <img align="center" alt="ANGULARJS" src="https://img.shields.io/badgehttps://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" />
- <img align="center" alt=".NET" src="[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)" />
+ <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" />
  <img align="center" alt="POSTGRES" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img align="center" alt="MSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  </div><br/>

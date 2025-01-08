@@ -141,4 +141,4 @@
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-  ![snake gif](https://github.com/AllysonAugusto/AllysonAugusto/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/AllysonAugusto/AllysonAugusto/blob/output/github-contribution-grid-snake-dark.svg)

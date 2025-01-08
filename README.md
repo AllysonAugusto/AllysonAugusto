@@ -34,7 +34,7 @@
         self.nationality = "Brazilian" 
         self.residence = "Floresta, PE - BR"
         self.occupation = "Undergraduate Student" 
-        self.university = "Universidade Federal do Ceará (UFC) - Campus Quixadá"
+        self.university = "Federal University of Ceará (UFC) - Quixadá Campus"
         self.course = "Computer Networks"
         self.semester = 4
 ```
@@ -69,6 +69,8 @@
  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   
  </div><br/>
+
+ <hr>
 
 
 

@@ -12,6 +12,7 @@
 </div><br>
 <hr>
 
+<!-----Icons - Instagram, Discord, Gmail e Linkdln-->
 
 <br>
 <div align="center"> 
@@ -81,9 +82,15 @@
 
 <div align="center">
 
+<!---Deadme-Stats-->
 <br><br>
-![Allyson GitHub stats](https://github-readme-stats.vercel.app/api?username=AllysonAugusto&show_icons=true&theme=radical)
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AllysonAugusto&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Allyson Augusto github stats"/> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllysonAugusto&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 <br><br>
+
+<!---Icons - Python, Github e Vscode-->
 <div style="display: inline_block"><br/>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">

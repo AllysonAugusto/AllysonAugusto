@@ -156,6 +156,7 @@
 ![snake gif](https://github.com/AllysonAugusto/AllysonAugusto/blob/output/github-contribution-grid-snake.svg)
 
 
+<hr>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 

@@ -118,6 +118,9 @@
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=000000&color=15e5a6&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AllysonAugusto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->

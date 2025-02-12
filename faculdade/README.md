@@ -1,5 +1,10 @@
 Repositório do meu curso de Redes de Computadores iniciado em 2023.1
 
+Legenda da tabela:
+
+:heavy_check_mark: Disciplina concluída.<br>
+:x: Ainda a ser feita.
+
 
 <h1 align="center">1º semestre.</h1>
 

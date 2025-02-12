@@ -51,7 +51,7 @@ Status | Disciplina | Professor
 Status | Disciplina | Professor
 :---:|:---|:---
 ✅ | Programação de Script | João Marcelo Uchôa de Alencar
-❌ | Redes de Alta Velocidade | Ainda não feito
+❌ | Redes de Alta Velocidade |
 ❌ | Serviços de Redes de Computadores |
 ❌ | Gerência de Redes de Computadores |
 

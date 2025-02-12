@@ -1,27 +1,3 @@
-<div align="center">
-    <p><b>Progresso do curso:</b> <span id="progresso">0</span>%</p>
-    <progress id="barraProgresso" value="0" max="100"></progress>
-</div>
-
-<script>
-    let totalDisciplinas = document.querySelectorAll("table tr").length - 1; // Exclui cabeçalho
-    let concluidas = document.querySelectorAll("td:contains('✔')").length;
-    let percentual = Math.round((concluidas / totalDisciplinas) * 100);
-
-    document.getElementById("progresso").innerText = percentual;
-    document.getElementById("barraProgresso").value = percentual;
-</script>
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Grade Curricular - Redes de Computadores</h1>
 
 <p align="center"><em>Registro do meu curso de Redes de Computadores iniciado em 2023.1.</em></p>

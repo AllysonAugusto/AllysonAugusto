@@ -1,85 +1,83 @@
-Repositório do meu curso de Redes de Computadores iniciado em 2023.1
+<h1 align="center">Grade Curricular - Redes de Computadores</h1>
 
-Legenda da tabela:
+<p align="center"><em>Registro do meu curso de Redes de Computadores iniciado em 2023.1.</em></p>
 
-:heavy_check_mark: Disciplina concluída.<br>
-:x: Ainda a ser feita.
+<p align="center">✅ Disciplina concluída | ❌ Ainda a ser feita</p>
 
-
-<h1 align="center">1º semestre.</h1>
+<h2 align="center">1º Semestre</h2>
 
 <div align="center">
 
-Status:| Disciplina: | Professor:
+Status | Disciplina | Professor
 :---:|:---|:---
-:heavy_check_mark: | Fundamentos de Programação | Fábio Carlos Sousa Dias
-:heavy_check_mark: | Ética, Direito e Legislação | João Ferreira de Lavor
-:heavy_check_mark: | Informática e Organização de Computadores | Paulo Armando Cavalcante Aguilar
-:heavy_check_mark: | Redes de Computadores I | Marcos Dantas Ortiz
+✅ | Fundamentos de Programação | Fábio Carlos Sousa Dias
+✅ | Ética, Direito e Legislação | João Ferreira de Lavor
+✅ | Informática e Organização de Computadores | Paulo Armando Cavalcante Aguilar
+✅ | Redes de Computadores I | Marcos Dantas Ortiz
 
 </div>
 
-<h1 align="center">2º semestre.</h1>
+<h2 align="center">2º Semestre</h2>
 
 <div align="center">
 
-Status:| Disciplina: | Professor:
+Status | Disciplina | Professor
 :---:|:---|:---
-:heavy_check_mark: | Programação Orientada a Objetos | Marcos Antonio de Oliveira
-:heavy_check_mark: | Probabilidade e Estatística | André Ribeiro Braga
-:heavy_check_mark: | Sistemas Operacionais | Jeandro de Mesquita Bezerra
-:heavy_check_mark: | Redes de Computadores II | Michel Sales Bonfim
+✅ | Programação Orientada a Objetos | Marcos Antonio de Oliveira
+✅ | Probabilidade e Estatística | André Ribeiro Braga
+✅ | Sistemas Operacionais | Jeandro de Mesquita Bezerra
+✅ | Redes de Computadores II | Michel Sales Bonfim
 
 </div>
 
-<h1 align="center">3º semestre.</h1>
+<h2 align="center">3º Semestre</h2>
 
 <div align="center">
 
-Status:| Disciplina: | Professor:
+Status | Disciplina | Professor
 :---:|:---|:---
-:heavy_check_mark: | Fundamentos de Banco de Dados | Lívia Almada Cruz
-:heavy_check_mark: | Administração de Sistemas Operacionais Windows | Alisson Barbosa de Souza
-:heavy_check_mark: | Administração de Sistemas Operacionais Linux | Michel Sales Bonfim
-:x: | Segurança da Informação | Ainda não feito
-:x: | Laboratório em Infraestrutura de Redes de Computadores | Ainda não feito
+✅ | Fundamentos de Banco de Dados | Lívia Almada Cruz
+✅ | Administração de Sistemas Operacionais Windows | Alisson Barbosa de Souza
+✅ | Administração de Sistemas Operacionais Linux | Michel Sales Bonfim
+❌ | Segurança da Informação | Ainda não feito
+❌ | Laboratório em Infraestrutura de Redes de Computadores | Ainda não feito
 
 </div>
 
-<h1 align="center">4º semestre.</h1>
+<h2 align="center">4º Semestre</h2>
 
 <div align="center">
 
-Status:| Disciplina: | Professor:
+Status | Disciplina | Professor
 :---:|:---|:---
-:heavy_check_mark: | Programação de Script | João Marcelo Uchôa de Alencar
-:x: | Redes de Alta Velocidade | Ainda não feito
-:x: | Serviços de Redes de Computadores | Ainda não feito
-:x: | Gerência de Redes de Computadores | Ainda não feito
+✅ | Programação de Script | João Marcelo Uchôa de Alencar
+❌ | Redes de Alta Velocidade | Ainda não feito
+❌ | Serviços de Redes de Computadores | Ainda não feito
+❌ | Gerência de Redes de Computadores | Ainda não feito
 
 </div>
 
-<h1 align="center">5º semestre.</h1>
+<h2 align="center">5º Semestre</h2>
 
 <div align="center">
 
-Status:| Disciplina: | Professor:
+Status | Disciplina | Professor
 :---:|:---|:---
-:heavy_check_mark: | Sistemas Distribuídos | Marcos Dantas Ortiz
-:x: | Análise de Desempenho de Redes de Computadores | Ainda não feito
-:x: | Virtualização e Redes Definidas por Software | Ainda não feito
-:heavy_check_mark: | Redes Móveis e Sem Fio | Alisson Barbosa de Souza
+✅ | Sistemas Distribuídos | Marcos Dantas Ortiz
+❌ | Análise de Desempenho de Redes de Computadores | Ainda não feito
+❌ | Virtualização e Redes Definidas por Software | Ainda não feito
+✅ | Redes Móveis e Sem Fio | Alisson Barbosa de Souza
 
 </div>
 
-<h1 align="center">Optativas</h1>
+<h2 align="center">Disciplinas Optativas</h2>
 <div align="center">
 
-Status:| Disciplina: | Professor:
+Status | Disciplina | Professor
 :---:|:---|:---
-:heavy_check_mark: | Teoria Geral da Administração | João Ferreira de Lavor
-:heavy_check_mark: | Informática e Organização de Computadores | Paulo Armando Cavalcante Aguilar
-:heavy_check_mark: | Métodos e Técnicas de Pesquisa | João Ferreira de Lavor
-:heavy_check_mark: | Empreendedorismo | João Ferreira de Lavor
+✅ | Teoria Geral da Administração | João Ferreira de Lavor
+✅ | Informática e Organização de Computadores | Paulo Armando Cavalcante Aguilar
+✅ | Métodos e Técnicas de Pesquisa | João Ferreira de Lavor
+✅ | Empreendedorismo | João Ferreira de Lavor
 
 </div>

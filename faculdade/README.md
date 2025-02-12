@@ -39,8 +39,8 @@ Status | Disciplina | Professor
 ✅ | Fundamentos de Banco de Dados | Lívia Almada Cruz
 ✅ | Administração de Sistemas Operacionais Windows | Alisson Barbosa de Souza
 ✅ | Administração de Sistemas Operacionais Linux | Michel Sales Bonfim
-❌ | Segurança da Informação | Ainda não feito
-❌ | Laboratório em Infraestrutura de Redes de Computadores | Ainda não feito
+❌ | Segurança da Informação |
+❌ | Laboratório em Infraestrutura de Redes de Computadores | 
 
 </div>
 
@@ -52,8 +52,8 @@ Status | Disciplina | Professor
 :---:|:---|:---
 ✅ | Programação de Script | João Marcelo Uchôa de Alencar
 ❌ | Redes de Alta Velocidade | Ainda não feito
-❌ | Serviços de Redes de Computadores | Ainda não feito
-❌ | Gerência de Redes de Computadores | Ainda não feito
+❌ | Serviços de Redes de Computadores |
+❌ | Gerência de Redes de Computadores |
 
 </div>
 
@@ -64,8 +64,8 @@ Status | Disciplina | Professor
 Status | Disciplina | Professor
 :---:|:---|:---
 ✅ | Sistemas Distribuídos | Marcos Dantas Ortiz
-❌ | Análise de Desempenho de Redes de Computadores | Ainda não feito
-❌ | Virtualização e Redes Definidas por Software | Ainda não feito
+❌ | Análise de Desempenho de Redes de Computadores |
+❌ | Virtualização e Redes Definidas por Software |
 ✅ | Redes Móveis e Sem Fio | Alisson Barbosa de Souza
 
 </div>

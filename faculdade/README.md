@@ -76,7 +76,6 @@ Status | Disciplina | Professor
 Status | Disciplina | Professor
 :---:|:---|:---
 ✅ | Teoria Geral da Administração | João Ferreira de Lavor
-✅ | Informática e Organização de Computadores | Paulo Armando Cavalcante Aguilar
 ✅ | Métodos e Técnicas de Pesquisa | João Ferreira de Lavor
 ✅ | Gestão da Tecnologia da Informação | Brenno Buarque de Lima
 

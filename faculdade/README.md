@@ -77,6 +77,6 @@ Status | Disciplina | Professor
 :---:|:---|:---
 ✅ | Teoria Geral da Administração | João Ferreira de Lavor
 ✅ | Métodos e Técnicas de Pesquisa | João Ferreira de Lavor
-✅ | Gestão da Tecnologia da Informação | Brenno Buarque de Lima
+... | Gestão da Tecnologia da Informação | Brenno Buarque de Lima
 
 </div>

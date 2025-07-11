@@ -39,8 +39,8 @@ Status | Disciplina | Professor
 ✅ | Fundamentos de Banco de Dados | Lívia Almada Cruz
 ✅ | Administração de Sistemas Operacionais Windows | Alisson Barbosa de Souza
 ✅ | Administração de Sistemas Operacionais Linux | Michel Sales Bonfim
-... | Segurança da Informação | Michel Sales Bonfim
-... | Laboratório em Infraestrutura de Redes de Computadores | Jeandro de Mesquita Bezerra
+✅  | Segurança da Informação | Michel Sales Bonfim
+✅  | Laboratório em Infraestrutura de Redes de Computadores | Jeandro de Mesquita Bezerra
 
 </div>
 
@@ -53,7 +53,7 @@ Status | Disciplina | Professor
 ✅ | Programação de Script | João Marcelo Uchôa de Alencar
 ❌ | Redes de Alta Velocidade |
 ❌ | Serviços de Redes de Computadores |
-... | Gerência de Redes de Computadores | Rafael Braga
+✅  | Gerência de Redes de Computadores | Rafael Braga
 
 </div>
 
@@ -77,6 +77,6 @@ Status | Disciplina | Professor
 :---:|:---|:---
 ✅ | Teoria Geral da Administração | João Ferreira de Lavor
 ✅ | Métodos e Técnicas de Pesquisa | João Ferreira de Lavor
-... | Gestão da Tecnologia da Informação | Brenno Buarque de Lima
+✅  | Gestão da Tecnologia da Informação | Brenno Buarque de Lima
 
 </div>

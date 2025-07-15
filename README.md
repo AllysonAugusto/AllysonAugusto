@@ -126,7 +126,7 @@
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| X | X | X | X | 
+| aplicação de troca de mensagens seguras | X | X | X | 
 | X | X | X | X | 
 | X | X | X | X | 
 | X | X | X | X | 

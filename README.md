@@ -124,27 +124,21 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| aplicação de troca de mensagens seguras | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
-| X | X | X | X | 
+
+| Projects                                                                                      | Deployed Link | Repository        | Tech Stack & Tools                                    |
+|:----------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:-----------------------------------------------------|
+| Aplicação de Troca de Mensagens Seguras                                                      | —             | []    | Python, Criptografia (AES/RSA), Sockets       |
+| Plataforma Digital para Conectar Clientes a Advogados                                       | —             | []    | HTML, CSS, JavaScript, Bootstrap                      |
+| Procura Palavras: Jogo Educativo Interativo sobre Plantas Medicinais e Saberes Indígenas     | —             | []    | HTML, CSS, JavaScript                                 |
+| Extração de Dados - DataSUS                                                                  | —             | []    | Python, Requests, Pandas, Polars                            |
+| File Discover                                                                               | —             | []    | Python, Sistema de Arquivos, Regex                    |
+| Analisando a Memória do Windows                                                             | —             | []    | Python, Volatility Framework, Forense Digital         |
+| Vulnerabilidade de String de Formato                                                        | —             | []    | Python, Segurança da Informação, Exploração de Vulnerabilidades |
+| Passagens de Ônibus - Sistema de Reservas                                                   | —             | []    | Java, Python, UDP Sockets, JSON (Gson), UML           |
 
 </details>                     
 <br>
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->

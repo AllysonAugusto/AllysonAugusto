@@ -127,15 +127,15 @@
 
 | Projects                                                                                      | Deployed Link | Repository        | Tech Stack & Tools                                    |
 |:----------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:-----------------------------------------------------|
-| Aplicação de Troca de Mensagens Seguras                                                      | —             | [Link do repo]    | Python, Criptografia (AES/RSA), Sockets, Flask       |
-| Plataforma Digital para Conectar Clientes a Advogados                                       | —             | [Link do repo]    | HTML, CSS, JavaScript, Bootstrap                      |
-| Procura Palavras: Jogo Educativo Interativo sobre Plantas Medicinais e Saberes Indígenas     | —             | [Link do repo]    | HTML, CSS, JavaScript                                 |
-| Extração de Dados - DATASUS                                                                  | —             | [Link do repo]    | Python, Requests, Pandas                              |
-| File Discover                                                                               | —             | [Link do repo]    | Python, Sistema de Arquivos, Regex                    |
-| Vulnerabilidade de String de Formato                                                        | —             | [Link do repo]    | Python, Segurança da Informação, Exploração de Vulnerabilidades |
-| Passagens de Ônibus - Sistema de Reservas                                                   | —             | [Link do repo]    | Java, Python, UDP Sockets, JSON (Gson), UML           |
-| Ferramenta de SubDomínios — Reconhecimento modular de subdomínios                           | —             | [Link do repo]    | Python, Requests, Regex, Modular Design               |
-| Ferramenta Scanner Wireless — Varredura de rede sem fio                                     | —             | [Link do repo]    | Python, Scapy, Redes Wireless, Segurança de Redes     |
+| Aplicação de Troca de Mensagens Seguras                                                      | —             | []    | Python, Criptografia (AES/RSA), Sockets, Flask       |
+| Plataforma Digital para Conectar Clientes a Advogados                                       | —             | []    | HTML, CSS, JavaScript, Bootstrap                      |
+| Procura Palavras: Jogo Educativo Interativo sobre Plantas Medicinais e Saberes Indígenas     | —             | []    | HTML, CSS, JavaScript                                 |
+| Extração de Dados - DATASUS                                                                  | —             | []    | Python, Requests, Pandas                              |
+| File Discover                                                                               | —             | []    | Python, Sistema de Arquivos, Regex                    |
+| Vulnerabilidade de String de Formato                                                        | —             | []    | Python, Segurança da Informação, Exploração de Vulnerabilidades |
+| Passagens de Ônibus - Sistema de Reservas                                                   | —             | []    | Java, Python, UDP Sockets, JSON (Gson), UML           |
+| Ferramenta de SubDomínios — Reconhecimento modular de subdomínios                           | —             | []    | Python, Requests, Regex, Modular Design               |
+| Ferramenta Scanner Wireless — Varredura de rede sem fio                                     | —             | []    | Python, Scapy, Redes Wireless, Segurança de Redes     |
 
 </details>                     
 <br>

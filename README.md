@@ -153,13 +153,16 @@
 ![snake gif](https://github.com/AllysonAugusto/AllysonAugusto/blob/output/github-contribution-grid-snake.svg)
 
 
+![Visitors](https://komarev.com/ghpvc/?username=AllysonAugusto&color=blue&style=flat-square)
 <hr>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/AllysonAugusto/count.svg" />
-</p> 
-<br></div>
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AllysonAugusto&color=blue&style=flat-square" alt="Visitors count" />
+  </p> 
+  <br>
+</div>
+
 
 
 

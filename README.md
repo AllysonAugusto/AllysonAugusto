@@ -37,7 +37,7 @@
         self.occupation = "Undergraduate Student" 
         self.university = "Federal University of Ceará (UFC) - Quixadá Campus"
         self.course = "Computer Networks"
-        self.semester = 4
+        self.semester = 5
 ```
 <br><br><br>
 

@@ -1,27 +1,39 @@
-name: Snake Game
+name: generate animation
 
 on:
+  # roda automaticamente a cada 24h
   schedule:
-    - cron: "0 */5 * * *"   # atualiza a cada 5h
+    - cron: "0 */24 * * *"
+  
+  # permite rodar manualmente
   workflow_dispatch:
-
-permissions:
-  contents: write            # necessário pra publicar no branch output
-
+  
+  # roda a cada push na branch master (ou main)
+  push:
+    branches:
+      - master
+      - main
+    
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      # Gera as imagens (versão oficial)
-      - uses: Platane/snk/svg-only@v3
+      # gera a snake a partir das contribuições
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: AllysonAugusto
+          github_user_name: AllysonAugusto  
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      # Publica no branch "output"
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      # publica os arquivos na branch `output`
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

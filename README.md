@@ -149,9 +149,9 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-
 ### 🐍 Snake: minhas contribuições
-![snake animation](https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-contribution-grid-snake.gif)
+
 
 
 

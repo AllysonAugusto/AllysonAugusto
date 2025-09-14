@@ -152,11 +152,8 @@
 <!--- -- Snake -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 ### Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-snake.svg" />
-</picture>
+![Snake animation dark](https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- Se preferir GIF animado no README:
 ![snake gif](https://github.com/AllysonAugusto/AllysonAugusto/blob/output/github-snake.gif?raw=1)

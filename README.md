@@ -158,6 +158,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-snake.svg" />
 </picture>
 
+<!-- Se preferir GIF animado no README:
+![snake gif](https://github.com/AllysonAugusto/AllysonAugusto/blob/output/github-snake.gif?raw=1)
+-->
+
+
 
 
 

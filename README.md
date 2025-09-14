@@ -49,7 +49,7 @@
 <p align="center">
   <!-- Sistemas Operacionais -->
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   
   <!-- Backend / Linguagens -->

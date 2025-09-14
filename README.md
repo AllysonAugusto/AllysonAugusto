@@ -150,7 +150,7 @@
 
 
 ### 🐍 Snake: minhas contribuições
-![snake animation](https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-contribution-grid-snake.gif)
+![snake animation](https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-contribution-grid-snake.svg)
 
 
 

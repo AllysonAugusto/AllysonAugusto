@@ -149,12 +149,31 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-### 🐍 Snake: minhas contribuições
-![snake animation](https://raw.githubusercontent.com/AllysonAugusto/AllysonAugusto/output/github-contribution-grid-snake.svg)
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-3D3D3D?style=for-the-badge&logo=rust&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
+### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AllysonAugusto&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllysonAugusto&layout=compact&theme=radical" alt="langs"/>
+</p>
 
+
+### 📈 Contribuições Recentes
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AllysonAugusto&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AllysonAugusto/Tratamento_de_Dados/main/banner.gif" alt="banner"/>
+</p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Footer -------------------------------------------------------------------------------------------------------------------------- -->

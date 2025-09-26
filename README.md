@@ -147,7 +147,9 @@
 | Passagens de Ônibus - Sistema de Reservas                                                   | —             | []    | Java, Python, UDP Sockets, JSON (Gson), UML           |
 | Ferramenta de SubDomínios — Reconhecimento modular de subdomínios                           | —             | []    | Python, Requests, Regex, Modular Design               |
 | Ferramenta Scanner Wireless — Varredura de rede sem fio                                     | —             | []    | Python, Scapy, Redes Wireless, Segurança de Redes     |
-| Extração de dados do INMET                                                                  | —             | []    | Python, Polars, Pandas, Requests, Jupyter     |
+| Extração de dados do INMET                                                                  | —             | []    | Python, Polars, Pandas, Requests, Jupyter, Power B     |
+| Monitoramento das Queimadas no Ceará                                                                  | —             | []    | Python, Polars, Pandas, Requests, Jupyter, Power B     |
+
 
 
 </details>                     

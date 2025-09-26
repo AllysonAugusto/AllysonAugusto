@@ -137,18 +137,19 @@
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
 | Projects                                                                                       | Tech Stack & Tools                                    |
-|:----------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:-----------------------------------------------------|
+|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------:|
 | Aplicação de Troca de Mensagens Seguras                                                        | Python, Criptografia (AES/RSA), Sockets, Flask       |
-| Plataforma Digital para Conectar Clientes a Advogados                                          | HTML, CSS, JavaScript, Bootstrap                      |
-| Procura Palavras: Jogo Educativo Interativo sobre Plantas Medicinais e Saberes Indígenas       | HTML, CSS, JavaScript                                 |
+| Plataforma Digital para Conectar Clientes a Advogados                                          | HTML, CSS, JavaScript, Bootstrap                     |
+| Procura Palavras: Jogo Educativo Interativo sobre Plantas Medicinais e Saberes Indígenas       | HTML, CSS, JavaScript                                |
 | Extração de Dados - DATASUS                                                                    | Python, Requests, Pandas                              |
 | File Discover                                                                                  | Python, Sistema de Arquivos, Regex                    |
 | Vulnerabilidade de String de Formato                                                           | Python, Segurança da Informação, Exploração de Vulnerabilidades |
-| Passagens de Ônibus - Sistema de Reservas                                                      | Java, Python, UDP Sockets, JSON (Gson), UML           |
-| Ferramenta de SubDomínios — Reconhecimento modular de subdomínios                              | Python, Requests, Regex, Modular Design               |
-| Ferramenta Scanner Wireless — Varredura de rede sem fio                                        | Python, Scapy, Redes Wireless, Segurança de Redes     |
-| Extração de dados do INMET                                                                     | Python, Polars, Pandas, Requests, Jupyter, Power B     |
-| Monitoramento das Queimadas no Ceará                                                           | Python, Polars, Pandas, Requests, Jupyter, Power B     |
+| Passagens de Ônibus - Sistema de Reservas                                                      | Java, Python, UDP Sockets, JSON (Gson), UML          |
+| Ferramenta de SubDomínios — Reconhecimento modular de subdomínios                              | Python, Requests, Regex, Modular Design              |
+| Ferramenta Scanner Wireless — Varredura de rede sem fio                                        | Python, Scapy, Redes Wireless, Segurança de Redes    |
+| Extração de Dados do INMET                                                                     | Python, Polars, Pandas, Requests, Jupyter, Power BI  |
+| **Monitoramento das Queimadas no Ceará**                                                      | Python, Polars, Pandas, Requests, Jupyter, Power BI  |
+
 
 
 

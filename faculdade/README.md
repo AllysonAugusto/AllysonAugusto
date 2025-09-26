@@ -52,7 +52,7 @@ Status | Disciplina | Professor
 :---:|:---|:---
 ✅ | Programação de Script | João Marcelo Uchôa de Alencar
 ❌ | Redes de Alta Velocidade |
-❌ | Serviços de Redes de Computadores |
+❌ | Serviços de Redes de Computadores | Jeandro de Mesquita Bezerra
 ✅  | Gerência de Redes de Computadores | Rafael Braga
 
 </div>
@@ -64,7 +64,7 @@ Status | Disciplina | Professor
 Status | Disciplina | Professor
 :---:|:---|:---
 ✅ | Sistemas Distribuídos | Marcos Dantas Ortiz
-❌ | Análise de Desempenho de Redes de Computadores |
+❌ | Análise de Desempenho de Redes de Computadores | Francisco Helder Candido dos Santos Filho
 ❌ | Virtualização e Redes Definidas por Software |
 ✅ | Redes Móveis e Sem Fio | Alisson Barbosa de Souza
 

@@ -62,10 +62,6 @@
   <img alt="Polars" src="https://img.shields.io/badge/Polars-3D3D3D?style=for-the-badge&logo=rust&logoColor=orange"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  
-  <!-- Visualização de Dados -->
-  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-#E76F01?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-#00A9E0?style=for-the-badge&logo=python&logoColor=white"/>
 
   <!-- Machine Learning e Mineração de Dados -->
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF7F0E?style=for-the-badge&logo=python&logoColor=white"/>

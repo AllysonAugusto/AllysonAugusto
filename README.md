@@ -41,7 +41,6 @@
 ```
 <br><br><br>
 
-
 <!-----------Knowledge-------->
 
 ## 📚 Knowledge
@@ -63,10 +62,17 @@
   <img alt="Polars" src="https://img.shields.io/badge/Polars-3D3D3D?style=for-the-badge&logo=rust&logoColor=orange"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  
+  <!-- Visualização de Dados -->
+  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-#E76F01?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-#00A9E0?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- Machine Learning e Mineração de Dados -->
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-#FF7F0E?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="mineração de dados" src="https://img.shields.io/badge/Mineração%20de%20Dados-#006DB6?style=for-the-badge&logo=python&logoColor=white"/>
 
   <!-- Frontend -->
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -82,6 +88,7 @@
 </p>
 
 <hr>
+
 
 
 

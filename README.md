@@ -68,8 +68,8 @@
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-#00A9E0?style=for-the-badge&logo=python&logoColor=white"/>
 
   <!-- Machine Learning e Mineração de Dados -->
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-#FF7F0E?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="mineração de dados" src="https://img.shields.io/badge/Mineração%20de%20Dados-#006DB6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF7F0E?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="mineração de dados" src="https://img.shields.io/badge/Mineração%20de%20Dados-006DB6?style=for-the-badge&logo=python&logoColor=white"/>
 
   <!-- Frontend -->
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>

@@ -63,9 +63,6 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-  <!-- 🤖 Machine Learning e Mineração de Dados -->
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF7F0E?style=for-the-badge&logo=python&logoColor=white"/>
-
   <!-- 🎨 Frontend -->
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

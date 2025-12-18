@@ -132,7 +132,8 @@
 | Ferramenta de SubDomínios — Reconhecimento modular de subdomínios                              | Python, Requests, Regex, Modular Design              |
 | Ferramenta Scanner Wireless — Varredura de rede sem fio                                        | Python, Scapy, Redes Wireless, Segurança de Redes    |
 | Extração de Dados do INMET                                                                     | Python, Polars, Pandas, Requests, Jupyter, Power BI  |
-| **Monitoramento das Queimadas no Ceará**                                                      | Python, Polars, Pandas, Requests, Jupyter, Power BI  |
+| **Monitoramento das Queimadas no Ceará**                                                       | Python, Polars, Pandas, Requests, Jupyter, Power BI  |
+| Análise de Sentimentos em Avaliações de Produtos                                               | Machine Learning, PLN, Python |
 
 
 

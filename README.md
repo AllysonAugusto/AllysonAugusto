@@ -134,6 +134,7 @@
 | Extração de Dados do INMET                                                                     | Python, Polars, Pandas, Requests, Jupyter, Power BI  |
 | **Monitoramento das Queimadas no Ceará**                                                       | Python, Polars, Pandas, Requests, Jupyter, Power BI  |
 | Análise de Sentimentos em Avaliações de Produtos                                               | Machine Learning, PLN, Python |
+| Credit Risk Analysis with Machine Learning | Python, Pandas, NumPy, Scikit-learn, Google Colab       |
 
 
 

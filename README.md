@@ -34,7 +34,7 @@
         self.name = "Allyson Novaes" 
         self.nationality = "Brazilian" 
         self.residence = "Floresta, PE - BR"
-        self.high_school = "IF Sertão-PE – Campus Floresta"
+        self.high_school = "IF Sertão-PE | Computer technician"
         self.occupation = "Undergraduate Student" 
         self.university = "Federal University of Ceará (UFC) - Quixadá Campus"
         self.course = "Computer Networks"

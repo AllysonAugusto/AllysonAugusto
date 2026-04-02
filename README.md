@@ -138,7 +138,7 @@
 | **Monitoramento das Queimadas no Ceará**                                                       | Python, Polars, Pandas, Requests, Jupyter, Power BI  |
 | Análise de Sentimentos em Avaliações de Produtos                                               | Machine Learning, PLN, Python |
 | Análise de Risco de Crédito usando Machine Learning | Python, Pandas, NumPy, Scikit-learn, Google Colab       |
-
+| MemoBrain — Aplicativo de Memorização                                          | Kotlin, Java, Android                         |
 
 
 
